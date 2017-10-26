@@ -1,0 +1,9 @@
+Use the 7 “W”’s that gives structure and format for  logging:
+“log severity” categorizes the log message based on severity (FATAL, ERROR, WARNING, INFO, etc.)
+“when” did it happen
+“what” activity occurred; “what was the result”
+“from where” provides information describing where the action was initiated from.
+“who” initiated the action
+“on what” resource did the activity target
+“where” did the activity get observed, or modified in some way.
+“to where” provides information describing where the target resource that is affected by the action is located.
